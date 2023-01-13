@@ -4,6 +4,7 @@
 para ello recocomiendo usar miniconda
 
 conda create -n practica2_tipo python=3.9
+
 conda activate practica2_tipo
 
 aunque adjunto un file requirements.txt
